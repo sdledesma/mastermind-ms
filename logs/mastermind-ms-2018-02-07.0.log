@@ -1,0 +1,4 @@
+22:07:51.249 [main] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+22:07:51.270 [main] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+22:07:51.276 [main] INFO  io.pedestal.http - {:msg "GET /about", :line 80}
+22:07:51.293 [main] INFO  io.pedestal.http - {:msg "GET /about", :line 80}

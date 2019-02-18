@@ -1,0 +1,12 @@
+22:25:09.680 [nREPL-worker-1] INFO  org.eclipse.jetty.util.log - Logging initialized @1225592ms to org.eclipse.jetty.util.log.Slf4jLog
+22:26:01.613 [nREPL-worker-1] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+22:26:01.675 [nREPL-worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6a4c0f1c{/,null,AVAILABLE}
+22:26:01.741 [nREPL-worker-1] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@c96488f{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:5000}
+22:26:01.742 [nREPL-worker-1] INFO  org.eclipse.jetty.server.Server - Started @1277660ms
+22:26:44.621 [nREPL-worker-2] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@c96488f{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:5000}
+22:26:44.626 [nREPL-worker-2] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6a4c0f1c{/,null,UNAVAILABLE}
+22:27:38.404 [nREPL-worker-3] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+22:27:38.410 [nREPL-worker-3] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6a4c0f1c{/,null,AVAILABLE}
+22:27:38.411 [nREPL-worker-3] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@c96488f{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:5000}
+22:27:38.413 [nREPL-worker-3] INFO  org.eclipse.jetty.server.Server - Started @1374332ms
+22:27:51.788 [qtp1546988226-305] INFO  io.pedestal.http - {:msg "GET /about", :line 80}
